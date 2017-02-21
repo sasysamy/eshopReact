@@ -1,0 +1,102 @@
+  [
+        {
+            "productImage": "resources/mtr_masala.jpg",
+            "brandName": "MTR",
+            "productName": "Puliogare mix",
+            "packingDetail": "100gm pouch",
+            "price": 20
+        },
+        {
+            "productImage": "resources/sambar_powder.jpg",
+            "brandName": "Aachi",
+            "productName": "Sambar Powder",
+            "packingDetail": "200gm pouch",
+            "price": 30
+        },{
+            "productImage": "resources/chillipowder.jpg",
+            "brandName": "Sakthi",
+            "productName": "Chilli Powder",
+            "packingDetail": "500gm pouch",
+            "price": 50
+        },{
+            "productImage": "resources/eastern_chanamasala_c.jpg",
+            "brandName": "Everest",
+            "productName": "Garam masala",
+            "packingDetail": "200gm pouch",
+            "price": 25
+        },{
+            "productImage": "resources/heritageMilk.jpg",
+            "brandName": "Heritage",
+            "productName": "Toned Milk",
+            "packingDetail": "500ml packet",
+            "price": 20
+        },{
+            "productImage": "resources/heritageCurd.jpg",
+            "brandName": "Heritage",
+            "productName": "Curd",
+            "packingDetail": "500g packet",
+            "price": 30
+        },{
+            "productImage": "resources/grbGhee.png",
+            "brandName": "GRB",
+            "productName": "Pure Ghee",
+            "packingDetail": "200g container",
+            "price": 200
+        },{
+            "productImage": "resources/grbGhee.png",
+            "brandName": "Gold winner",
+            "productName": "Sunflower Oil",
+            "packingDetail": "1l packet",
+            "price": 100
+        },
+        {
+            "productImage": "resources/eastern_chanamasala_c.jpg",
+            "brandName": "MTR",
+            "productName": "lemo rice mix",
+            "packingDetail": "100gm pouch",
+            "price": 40
+        },
+        {
+            "productImage": "resources/eastern_chanamasala_c.jpg",
+            "brandName": "Aachi",
+            "productName": "Chicken pakoda Powder",
+            "packingDetail": "200gm pouch",
+            "price": 50
+        },{
+            "productImage": "resources/eastern_chanamasala_c.jpg",
+            "brandName": "Sakthi",
+            "productName": "Chicken kebab Powder",
+            "packingDetail": "500gm pouch",
+            "price": 20
+        },{
+            "productImage": "resources/everest.jpg",
+            "brandName": "Everest",
+            "productName": "Pepper Powder",
+            "packingDetail": "200gm pouch",
+            "price": 25
+        },{
+            "productImage": "resources/heritageMilk.jpg",
+            "brandName": "Heritage",
+            "productName": "Pure Panneer",
+            "packingDetail": "500ml packet",
+            "price": 70
+        },{
+            "productImage": "resources/pavBajimasala.jpg",
+            "brandName": "Everest",
+            "productName": "Pavbaji masala powder",
+            "packingDetail": "500g packet",
+            "price": 120
+        },{
+            "productImage": "resources/everest.jpg",
+            "brandName": "Maggi",
+            "productName": "Chinese Noodles",
+            "packingDetail": "200g container",
+            "price": 40
+        },{
+            "productImage": "resources/nandhiniMilkpowder.png",
+            "brandName": "Nandhini",
+            "productName": "Milk powder",
+            "packingDetail": "500g",
+            "price": 100
+        }
+ ]
